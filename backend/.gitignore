@@ -1,0 +1,26 @@
+# Python 
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+.env
+!.env.example
+
+logs/
+*.jsonl
+
+node_modules/
+dist/
+.cache/
+
+.DS_Store
+Thumbs.db
+
+routes.zip
+jobagent.db
+BACK.zip
+gmail_credentials.json
+gmail_token.json
